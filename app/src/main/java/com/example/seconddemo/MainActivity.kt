@@ -9,6 +9,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.seconddemo.ui.theme.SecondDemoTheme
+import com.example.seconddemo.MainScreen
+import androidx.navigation.NavController
+import androidx.compose.runtime.MutableState
 
 class MainActivity : ComponentActivity() {
 
